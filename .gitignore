@@ -1,0 +1,46 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.a
+
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.exe.stackdump
+
+# IDE/editor files
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj*
+
+# Backup files
+*~
+# Temporary files
+*.tmp
+# Mac files
+.DS_Store
+
+# C tags
+tags
+
+# Logs
+*.log
+
+# Build directories
+build/
+bin/
+obj/
